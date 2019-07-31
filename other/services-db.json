@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "name": "Diagnostic Radiology",
+    "presentation": "The Diagnostic Radiology Unit offers conventional radiology, mammography, ultrasound, bone densitometry services, musculoskeletal and spinal segments (cervical and lumbar) MRIs, both to hospitalized patients and outpatients.<br>The service is recognized within the Radiology Facilities of the n.2 Treviso ULSS, whose aim is to offer the citizens diagnostic services with the aid of high-quality images that will then be evaluated by qualified professionals.<br>The digital equipment the Radiology service uses will reduce as much as possible the radiation exposure, still maintaining the high quality of the result images.<br>",
+    "description": "Technologies available within the Diagnostic Radiology Service<br>• Bone densitometry: assessment of osteopenia and osteoporosis by evaluation of bone mass and analysis of lumbar and femoral area.<br>• Ultrasound: ultrasound equipment of last generation, using multiple probes and a dedicated software.<br>• Mammography: direct digital device, with high spatial and temporal resolution, which will reduce as much as possible the radiation exposure while increasing the comfort of the patient.<br>• Conventional radiology: direct and indirect digital equipment (automatic or robotic) ensuring greater efficiency and quality to diagnostic investigations.<br>• MRI: open machine with low magnetic field (0.25 T), suggested for people suffering from claustrophobia. Dedicated to joints, and cervical and lumbar spine investigations.<br>"
+  },
+  {
+    "id": 1,
+    "name": "Alzheimer’s disease Diagnosis",
+    "presentation": "Alzheimer’s disease is a progressive neurological condition that affects memory and other mental functions. It is the most common form of dementia, a group of brain disorders characterized by a general loss of mental abilities, including memory, judgment, language and abstract thinking.<br>",
+    "description": "Physical and neurological tests include:<br> • Coordination<br> •Balance<br> • Reflexes<br> • Muscle tone and strength<br> •Ability to stand up from a seated position and walk across the room<br> • Vision and hearing tests<br>The patient’s physician may also order blood tests to rule out alternative causes for memory loss and confusion, such as nutritional deficiencies.<br>Commonly used imaging tests include magnetic resonance imaging or computerized tomography scans. These are structural scans of the patient’s brain that may reveal other conditions that could be responsible for the symptoms, such as tumor or stroke.<br>Doctors also may order spinal fluid tests, or a positron emission tomography test, which allows them to see which parts of the brain are functioning normally and which are not.<br>"
+  },
+  {
+    "id": 2,
+    "name": "Connective tissue disease",
+    "presentation": "We are a leading specialised tertiary center for the care of patients with connective tissue diseases (CTDs). CTDs are a group of inflammatory autoimmune conditions that can affect the skin, along with other connective tissues such as joints and internal organs.<br>",
+    "description": "We care for patients with a variety of CTDs including lupus, morphoea, system sclerosis, dermatomyositis, overlap CTDs and Raynaud's phenomenon. As well as weekly dermatology CTD clinics, our specialised multidisciplinary team provides twice monthly unique combined care alongside our rheumatology colleagues to ensure seamless care. This means our patients can avoid multiple separate appointments. Our clinics are also supported by a highly experienced CTD nurse who assists in providing additional patient education and support.<br>"
+  },
+  {
+    "id": 3,
+    "name": "Vasectomy",
+    "presentation": "Your GP can refer you to this clinic if you wish to undergo a Vasectomy (male sterilisation).<br>If you wish to have a Vasectomy under local anaesthetic, you will be given an appointment for our one-stop Vasectomy Clinic, which takes place at the Richmond Urology Unit.<br>It is important that you read everything that we send to you before the appointment; it will contain vital information about the clinic and the procedure.<br>",
+    "description": "What to expect<br> • You will be counselled and examined, and if suitable, giving some time to confirm your decision before the procedure (this time is usually around 30-60 minutes)<br> • You can expect to be in the department for around 2 hours<br> • You will not be able to drive after the procedure so, where necessary, please arrange alternative transport<br> • You will be asked to provide two semen samples for analysis about four months after the procedure to confirm your sterility<br> • You should continue to use your usual method of contraception after the procedure until you receive confirmation of results<br>Please note: Vasectomy procedures are not immediately effective in providing contraception<br>"
+  },
+  {
+    "id": 4,
+    "name": "Orthopedic Surgery",
+    "presentation": "Joy Clinic orthopedic surgeons are recognized nationally and internationally for their surgical technical excellence and innovative abilities to solve both simple and difficult orthopedic problems. By collaborating with scientists in our clinic research facilities for biomechanics and regenerative medicine, our surgeons develop new solutions for patients that improve healing, speed rehabilitation and improve outcomes.<br>Orthopedic Surgeon Overview<br>An orthopedic surgeon, or orthopaedic surgeon, is a surgeon who has been educated and trained in the diagnosis and preoperative, operative, and postoperative treatment of diseases and injuries of the musculoskeletal system.<br>",
+    "description": "Orthopedic surgeons work closely with other health care providers and often serve as consultants to other physicians. Orthopedic surgeons often are involved in education (e.g., medical school professors) or research. They may practice in an orthopedic or multi-specialty group, or in a solo practice.<br>Orthopedic surgeons treat a number of conditions that affect the bones, joints, muscles, ligaments, tendons, and nerves. These conditions include the following:<br> • Arthritis<br> • Bone tumors<br> • Cerebral palsy<br> • Club foot, knock knees, bow legs, bunions, hammertoes<br> • Dislocations<br> • Fractures, sprains, and strains<br> • Muscle, ligament, and tendon damage<br> • Osteoporosis<br> • Spine disorders (e.g., sciatica, scoliosis, ruptured disc)<br>"
+  }
+]

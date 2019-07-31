@@ -1,0 +1,23 @@
+[
+  {
+    "service_id": 0,
+    "doctor_id": 5
+  },
+  {
+    "service_id": 1,
+    "doctor_id": 2
+  },
+  {
+    "service_id": 2,
+    "doctor_id": 9
+  },
+  {
+    "service_id": 3,
+    "doctor_id": 1
+  },
+  {
+    "service_id": 4,
+    "doctor_id": 0
+  }
+
+]

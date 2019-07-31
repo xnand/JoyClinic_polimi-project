@@ -1,0 +1,112 @@
+[
+  {
+    "id": 0,
+    "name": "Al",
+    "surname": "Maaieh",
+    "presentation": "Dr. Al Maaieh obtained his medical degree in Jordan in 2005. After that he finished his internship and residency in Orthopaedic surgery in 2012. In 2010, Dr. Al Maaieh spent 6 months as a visiting resident on the spine service at the Rothman Institute/ Thomas Jefferson University in Philadelphia. Furthermore, and during his residency, he was granted the AO Spine fellowship, where he did it at the University of Bern in Switzerland.<br>In July 2012, Dr. Al Maaieh moved to the United States and did 2 fellowships in Spine Surgery. The first one at the Hospital for Special Surgery in NY, ranked #1 in the US in Orthopaedics, mainly focused on adult degenerative and deformity spine disorders. His second fellowship at Mount Sinai hospital in NY, focused mainly on minimally invasive spine surgery. After that he finished a fellowship in Musculoskeletal Oncology at the University of Miami/Jackson Memorial Hospital where he treated patients with bone and soft tissue tumors including spinal tumors.<br>",
+    "professional_story": "2015 Musculoskeletal Oncology Fellowship<br>University of Miami/Jackson Medical Hospital<br><br>2014 Spine Fellowship<br>Icahn School of Medicine/Mount Sinai Hospital<br><br>2013 AO Spine Fellowship<br>Hospital for Special Surgery/Weill Cornell Medical College<br><br>2012 Residency<br>Royal Medical Services/King Hussein Medical Center<br><br>2011 Fellowship<br>University of Bern<br><br>2005 M.D.<br>Jordan University of Science and Technology<br",
+    "photo": "img/doctors/doctor-00.jpeg",
+    "mail": "maaieh.al@joyclinic.com",
+    "phone": "0291674432",
+    "location": "Milano"
+  },
+  {
+    "id": 1,
+    "name": "Cristiano",
+    "surname": "Abbuono",
+    "presentation": "Dr. Cristiano Abbuono has established himself as a specialist in urinary incontinence and urogenital reconstruction.<br><br>He is currently a Diplomat of the American Board of Urology with subspecialty certification in Female Pelvic Medicine and Reconstructive Surgery. He earned his medical degree and completed a residency in urology at the University of Miami where he was recognized for his accomplishments in urologic research. He went on to complete a fellowship in female urology, urodynamics and reconstruction at Memorial Healthcare System.<br><br>He returned to the University of Miami in 2011 at which point he became a faculty member with the urology department, and in 2012, he became the associate program director of the urology residency program. In September 2012, he was awarded the American Urological Associate/Urologic Society of India academic exchange scholar grant.<br><br>Dr. Abbuono is currently working to advance urologic medicine using minimally invasive surgical techniques to treat pelvic organ prolapse and urinary incontinence, and he is actively involved in research to test and develop new treatments for these disorders.<br",
+    "professional_story": "Undergraduate<br>Florida State University<br><br>Graduate<br>University of Miami<br><br>Fellowship<br>Memorial Healthcare System<br>",
+    "photo": "img/doctors/doctor-01.jpeg",
+    "mail": "abbuono.cristiano@joyclinic.com",
+    "phone": "0291674455",
+    "location": "Milano"
+  },
+  {
+    "id": 2,
+    "name": "Paolo",
+    "surname": "Ostrica",
+    "presentation": "Ostrica Paolo is a professor in neurology. His main areas of clinical and research interest are:<br><br>Autoimmune epilepsies and encephalopathies, diagnosis, and treatment<br>The effect of epileptic seizures on cardiopulmonary function<br>Stimulation therapies in epilepsy<br>Clinical aspects of epilepsy and seizures<br>Innovations in clinical practice<br>In addition to his practice and research interests, Dr. Ostrica has been active in the education of neurology residents and fellows for many years, and currently serves as the Epilepsy Fellowship program director. He is recognized as a Fellow of the American Epilepsy Society, American Academy of Neurology, American Clinical Neurophysiology Society and American Neurological Association.<br>",
+    "professional_story": "1999 Fellow - Clinical Neurophysiology <br>Emphasis: EEG/Epilepsy<br>Mayo Graduate School of Medicine, Mayo Clinic College of Medicine<br><br>1993 Resident - Neurology<br>Mayo Graduate School of Medicine, Mayo Clinic College of Medicine<br><br>1990 Internship<br>Mayo Graduate School of Medicine, Mayo Clinic College of Medicine<br><br>1989 MD<br>Carver College of Medicine, University of Iowa<br><br>1985 BS - Biology, with distinction<br>University of Iowa<br><br><br>2013 Epilepsy<br>American Board of Psychiatry and Neurology<br><br>2001 Clinical Neurophysiology<br>American Board of Psychiatry and Neurology<br><br>1995 Neurology<br>American Board of Psychiatry and Neurology<br>",
+    "photo": "img/doctors/doctor-02.jpeg",
+    "mail": "ostrica.paolo@joyclinic.com",
+    "phone": "0291674437",
+    "location": "Milano"
+  },
+  {
+    "id": 3,
+    "name": "Marco",
+    "surname": "Paviello",
+    "presentation": "Dr. Marco Paviello is a board-certified and fellowship-trained surgeon with expertise in the treatment of urologic cancers. Dr. Paviello was recruited to the University of Miami from Stanford where he served as Director of Robotic-Assisted Urologic Cancer Surgery and was one of the most experienced urologic oncologists on the west coast specializing in robotic surgery for prostate, bladder, and kidney cancer. He was previously on faculty at Johns Hopkins where he was Associate Professor of Urology and Director of the Fellowship Program in Urologic Oncology at The Brady Urological Institute.<br><br>He received his undergraduate degree with honors from the University of California at Berkeley and completed medical and graduate school at the USC Keck School of Medicine. Dr. Gonzalgo completed his general surgery and urology training at Johns Hopkins and a fellowship in urologic oncology at Memorial Sloan-Kettering Cancer Center. Dr. Gonzalgo is a recognized expert in DNA methylation and is particularly interested in developing new diagnostic and therapeutic approaches for cancer detection and treatment. He has carried out pioneering research on the molecular biology and early detection of prostate, bladder, and kidney cancer and has published extensively on the scientific and clinical aspects of these diseases.<br>",
+    "professional_story": "A.B.<br>University of California at Berkeley<br><br>M.D.<br>University of Southern California Keck School of Medicine<br><br>Ph.D.<br>University of Southern California Keck School of Medicine<br><br>Urologic Oncology Fellowship<br>Memorial Sloan-Kettering Cancer Center<br>",
+    "photo": "img/doctors/doctor-03.jpeg",
+    "mail": "paviello.marco@joyclinic.com",
+    "phone": "0291674439",
+    "location": "Milano"
+  },
+  {
+    "id": 4,
+    "name": "Giuseppe",
+    "surname": "Lanzino",
+    "presentation": "Dr. Giuseppe Lanzino is a radiologist and nuclear medicine physician specializing in neuroendocrine tumors, with a focus on treating patients with peptide receptor radionuclide therapy, or PRRT. He has a special interest in molecular imaging and in treating cancer patients using targeted imaging and paired therapies, also called theranostics.<br><br>In addition to working with patients, Hope conducts research focusing on novel radiopharmaceuticals, or new radioactive imaging agents that can help physicians localize tumors using positron emission tomography (PET). He also works on combining different imaging modalities — such as PET and MRI — to stage cancers in patients.<br><br>Lanzino received his medical degree from Stanford University School of Medicine, followed by a residency in diagnostic radiology at UCSF. He then completed a fellowship in nuclear medicine and body MRI at Stanford. Lanzino is a member of the Radiological Society of North America, the Society of Nuclear Medicine and Molecular Imaging, the Society of Abdominal Radiology, and the International Society for Magnetic Resonance in Medicine.<br>",
+    "professional_story": "1985 Fellow - Special Imaging<br>Mayo Graduate School of Medicine, Mayo Clinic College of Medicine<br><br>1984 Resident - Diagnostic Radiology<br>Mayo Graduate School of Medicine, Mayo Clinic College of Medicine<br><br>1981 Resident - Internal Medicine<br>Mayo Graduate School of Medicine, Mayo Clinic College of Medicine<br><br>1980 MD<br>Creighton University<br><br>1976 BS - Biology-Cum Laude<br>Creighton University<br><br>",
+    "photo": "img/doctors/doctor-04.jpeg",
+    "mail": "lanzino.giuseppe@joyclinic.com",
+    "phone": "0291674499",
+    "location": "Pavia"
+  },
+  {
+    "id": 5,
+    "name": "Maria",
+    "surname": "Alerma",
+    "presentation": "Dr. Maria Alerma is a radiologist who specializes in nuclear medicine. Nuclear medicine is a subspecialty of radiology that uses very small amounts of radioactive substances to examine organ function and structure. It also can be used to treat certain diseases.<br><br>Alerma earned a medical degree at the University of Valencia in Spain. She completed a doctorate in internal medicine at the Autonomous University of Barcelona as well a master's degree and a residency in nuclear medicine.<br>At Stanford University, she completed a residency in nuclear medicine and molecular imaging, and fellowships in cardiovascular, breast and basic science molecular imaging. She has several publications and extensive research and clinical experience using PET/CT and SPET/CT techniques.<br>Alerma is an associate professor in residence in the Department of Radiology and Biomedical Imaging.<br>",
+    "professional_story": "Graduate<br>University of Valencia<br>Doctorate in Internal Medicine<br>University of Barcelona<br><br>2000 Master's degree in nuclear medicine.<br>Since 2005  associate professor at Department of Radiology and Biomedical Imaging",
+    "photo": "img/doctors/doctor-05.jpeg",
+    "mail": "alerma.maria@joyclinic.com",
+    "phone": "0291674469",
+    "location": "Pavia"
+  },
+  {
+    "id": 6,
+    "name": "Raffaella",
+    "surname": "Regina",
+    "presentation": "Raffaella Regina is a board certified dermatologist and dermatopathologist with specialized interest in wounds. She heads a federally-funded wound healing research laboratory focused on the role of  bone marrow and stem cells in wound healing, regenerative medicine, and gene therapy.<br>",
+    "professional_story": "2000 Resident<br>Department of Dermatology<br><br>1997 Postdoctoral Internship<br>Department of Internal Medicine<br><br>1991 Residency - Clinical Genetics<br>University of Cape Town Medical School, University of Cape Town<br><br>1990 Internship - Family Medicine<br>Victoria Hospital<br><br>1989 MB ChB<br>University of Cape Town Medical School, University of Cape Town<br>",
+    "photo": "img/doctors/doctor-06.jpeg",
+    "mail": "regina.raffaella@joyclinic.com",
+    "phone": "0291674409",
+    "location": "Torino"
+  },
+  {
+    "id": 7,
+    "name": "Giovanni",
+    "surname": "Sant'Antonio",
+    "presentation": "Giovanni San'Antonio, is a professor of neurology. He is currently chair of the AAN Education Meeting Subcommittee and he is on the board of directors for the American Brain Foundation and the editorial board of Neurology Now. Previously, he served as director of education for San Raffaele Milano's campus with oversight over all educational activities at the Milano campus, including, medical student rotations, residencies, fellowships, Ph.D. candidates, nursing, allied health and continuing medical education programs. He was the previous vice chair of the Epilepsy Section of the American Academy of Neurology, chair of the Communication Council for the American Epilepsy Society and former chair of the Professional Advisory Board for the Epilepsy Foundation.<br><br>Dr. Sant'Antonio has published extensively on epilepsy and its treatment. His interests in epilepsy include:<br><br>Status epilepticus<br>Surgical therapy<br>Epilepsy in older adults and psychosocial issues, particularly those involving Hispanic populations and transportation<br>His articles have appeared in Neurology, Epilepsia, The Lancet, Archives of Neurology, Annals of Neurology, Epilepsy & Behavior and Mayo Clinic Proceedings. He is editor of seven textbooks: Clinical Neurology of the Older Adult, the American Epilepsy Society's Introduction to Epilepsy, Clinical Epilepsy, and An Atlas of Video EEG Monitoring. He is currently director of the Epilepsy Program at Mayo Clinic's Arizona campus.<br>",
+    "professional_story": "Epilepsy<br>Seizure<br>Procedures performed<br><br>EEG<br>Epilepsy surgery<br>Ketogenic diet<br>Interests<br><br>Epilepsy and seizure treatments in adults and children (particularly older adults)<br>Epilepsy surgery<br>Electroencephalography<br>Investigational antiepilepsy drugs<br>Status epilepticus<br>Vagal nerve stimulator<br>Ketogenic diet<br>",
+    "photo": "img/doctors/doctor-07.jpeg",
+    "mail": "santantonio.giovanni@joyclinic.com",
+    "phone": "0291674478",
+    "location": "Milano"
+  },
+  {
+    "id": 8,
+    "name": "Alessandro",
+    "surname": "Ottoni",
+    "presentation": "Alessandro Ottoni is a neurologist with a subspecialty expertise in stroke and cerebrovascular disease. His clinical interests include:<br><br>Cerebrovascular diseases of all types.<br>Ischemic stroke and transient ischemic attack evaluation and management.<br>Intracranial aneurysms — evaluation, screening and management.<br>Intracranial vascular malformations including cavernous malformations and arteriovenous malformations.<br>Central nervous system vasculitis evaluation and management.<br>Stroke prevention.<br>The evaluation and management of all other neurological disorders.<br>For all patients seen, provision of care focusing on the primary value of Joy Clinic: The needs of the patient come first.<br>In addition to his clinical activities, Dr. Ottoni has been active in stroke-cerebrovascular disease research for over 30 years, and has served as principal investigator, and on the executive committee and steering committees for numerous NIH-funded research studies. He has published extensively in scientific journals. He also has a long-standing interest in the education of residents and fellows, and in presenting at continuous professional development courses in the field of stroke and cerebrovascular disease for other physicians and health care providers.<br",
+    "professional_story": "Arteriovenous malformation<br>Brain aneurysm<br>Carotid artery disease<br>Cavernous malformations<br>CNS vasculitis<br>Stroke<br>Stroke prevention<br>Transient ischemic attack<br>Interests<br><br>Stroke: evaluation and management<br>Transient ischemic attack: evaluation and management<br>Stroke epidemiology and prevention<br>Carotid artery disease: medical, endovascular and surgical management<br>Cerebral aneurysms<br>Intracranial arteriovenous malformations<br>Intracranial cavernous malformations<br>CNS vascultis<br>",
+    "photo": "img/doctors/doctor-08.jpeg",
+    "mail": "ottoni.alessandro@joyclinic.com",
+    "phone": "0291674412",
+    "location": "Milano"
+  },
+  {
+    "id": 9,
+    "name": "Emanuele",
+    "surname": "Bovida",
+    "presentation": "Emanuele Bovida is a board certified dermatologist and dermatopathologist with specialized interest in wounds. He heads a federally-funded wound healing research laboratory focused on the role of  bone marrow and stem cells in wound healing, regenerative medicine, and gene therapy.<br>",
+    "professional_story": "1994 Residency<br>University of Miami School of Medicine<br><br>1990 Fellowship<br>Cardeza Foundation, Jefferson Medical College<br><br>1986 Graduate<br>Thomas Jefferson University<br><br>1979 Undergraduate<br>Rutgers University<br>",
+    "photo": "img/doctors/doctor-09.jpeg",
+    "mail": "bovida.emanuele@joyclinic.com",
+    "phone": "0291674413",
+    "location": "Torino"
+  }
+]

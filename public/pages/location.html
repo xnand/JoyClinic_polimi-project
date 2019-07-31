@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Joy Clinic</title>
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js"></script>
+     <link rel="stylesheet" href="../assets/css/style.css">
+        <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="../assets/bootstrap/css/bootstrap.min.css">
+
+</head>
+
+<body>
+
+
+  <nav class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+
+      <a class="navbar-brand" href="../index.html">
+        <img alt="Brand" src="../assets/img/JoyClinic_logo.png" height="30px" width="25px">
+      </a>
+
+      <a class="navbar-brand" href="../index.html">Joy Clinic</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+
+        <li><a href="doctors.html">Doctors</a></li>
+        <li><a href="locations.html">Locations</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="#">Areas</a></li>
+
+      </ul>
+
+      <ul class="nav navbar-nav navbar-right">
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Who we are<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="whoweare.html#presentation">Presentation</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="whoweare.html#history">History</a></li>
+          </ul>
+        </li>
+        <li><a href="#">FAQ</a></li>
+        <li><a href="#">News</a></li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+
+<!-- ORIENTATION INFO -->
+
+  <div id="orientation-info">
+    <a href="locations.html" class="orientation-style">Locations</a>
+    <a id="link-orientation" href="#" class="orientation-style"></a>
+  </div>
+
+
+<!-- INFO -->
+
+<div class="container info-container">
+  <div class="row">
+    <div class="col-sm-4 col-sm-offset-1">
+      <h1 id=location-name></h1>
+      <p id=location-address></p>
+      <a id=how-to-arrive>How to arrive here</a>
+      <br><br><br>
+      <p id=services-available>Service available: <br></p>
+    </div>
+    <div class="col-sm-4 col-sm-offset-1">
+      <h3>Presentation</h3>
+      <p id=location-presentation></p>
+    </div>
+  </div>
+
+<hr>
+
+  <div class="row">
+    <div class="col-sm-8 col-sm-offset-2">
+
+      <h3>Photos of the location</h3>
+
+
+
+
+<!-- SLIDER -->
+
+        <div id="carousel" class="carousel slide" data-ride="carousel">
+
+        <!-- slides -->
+        <div class="carousel-inner" role="listbox">
+
+          <div id="location-img-1" class="item active" style="background-image: url(../assets/img/locations/location-00-1.jpg);">
+          </div>
+
+          <div id="location-img-2" class="item" style="background-image: url(../assets/img/locations/location-00-1.jpg);">
+          </div>
+
+          <div id="location-img-3" class="item" style="background-image: url(../assets/img/locations/location-00-1.jpg);">
+          </div>
+        </div>
+
+        <!--  arrows-->
+        <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+          <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+          <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
+<!-- FOOTER-->
+<footer>
+  <div class="container-fluid">
+    <div class="col-sm-8 col-sm-offset-2">
+      <div class="row">
+        <div class="col-xs-4 footer-column">
+            <h5>Who we are</h5>
+            <p><a href="whoweare.html#presentation">Presentation</a></p>
+            <p><a href="whoweare.html#history">History</a></p>
+        </div>
+        <div class="col-xs-4 footer-column">
+            <h5>News</h5>
+            <p>Articles</p>
+        </div>
+        <div class="col-xs-4 footer-column">
+            <h5>Faq</h5>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+      <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <!-- Latest compiled JavaScript -->
+    <script src="../assets/bootstrap/js/bootstrap.min.js"></script>
+
+</body>
+<script type="text/javascript" src="../assets/js/script.js"></script>
+
+</html>

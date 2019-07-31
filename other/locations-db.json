@@ -1,0 +1,44 @@
+[
+  {
+    "id": 0,
+    "name": "Milano - Headquarter",
+    "phone": "0253450",
+    "cap": 20125,
+    "address": "Viale Zara 130 - Milano",
+    "presentation": "Joy Clinic in Milano has been an integral part of the community since 1901. It continues to expand and create access to a large number of medical, surgical and support services. Its award-winning home health care serves a large geographic region. A renovated facility reflects its commitment to improve quality care and patient comfort.",
+    "photo1": "location-00-1.jpg",
+    "photo2": "location-00-2.jpg",
+    "photo3": "location-00-3.jpg",
+    "info": "Bus 42, 51. Tram 5, 7, 31. Metro M5 Marche",
+    "lat": "45.500",
+    "lng": "9.197"
+  },
+  {
+    "id": 1,
+    "name": "Torino - Castelfiardo",
+    "phone": "01123456",
+    "cap": 10138,
+    "address": "Corso Castelfiardo 60 - Torino",
+    "presentation": "Joy Clinic in Piedmont has a long history of providing quality care to the region.  Our ongoing mission is to provide premier healthcare through a commitment to service, quality, people, stewardship and growth.",
+    "photo1": "location-01-1.jpg",
+    "photo2": "location-01-2.jpg",
+    "photo3": "location-01-3.jpg",
+    "info": "Bus 12, 33, 42, W15, W15B. Tram 15, 16CD, 16CS",
+    "lat": "45.063",
+    "lng": "7.659"
+  },
+  {
+    "id": 2,
+    "name": "Pavia - Magenta",
+    "phone": "0382345999",
+    "cap": 27100,
+    "address": "Via Carlo Magenta 22 - Pavia",
+    "presentation": "Joy Clinic in Pavia is high quality healthcare and compassionate hometown service. Its mission is to provide local access to important services, from its 24-hour emergency room to its rural health clinics to award-winning home health nursing and a geriatric behavioral health unit. Friendly staff are trained to provide the very best care in both inpatient and outpatient service.",
+    "photo1": "location-02-1.jpg",
+    "photo2": "location-02-2.jpg",
+    "photo3": "location-02-3.jpg",
+    "info": "Walking from Pavia's train station",
+    "lat": "45.177",
+    "lng": "9.154"
+  }
+]

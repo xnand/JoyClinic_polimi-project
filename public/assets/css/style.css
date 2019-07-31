@@ -1,0 +1,173 @@
+
+html{
+  position: relative;
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
+
+body{
+  padding-top: 50px;
+  margin: 0;
+  background-color: #F0EBEB !important;
+  padding-bottom: 200px;
+}
+
+footer{
+  float: left;
+  background: #333;
+  color: #eee;
+  font-size: 11px;
+  padding: 20px;
+  width: 100%;
+  border-top: 10px solid #48BDA9;
+  position: absolute;
+  bottom: 0px;
+}
+.footer-column {
+  text-align: center;
+}
+
+input{
+  background-color: red;
+  border-radius: 30%;
+}
+
+hr{
+  border: 0px;
+  background-color: #48BDA9;
+  height: 1px !important;
+}
+
+.carousel-inner > .item {min-height: 400px; background-size: cover; background-position: center center;}
+
+.col-sm-4{
+  align-content: center;
+  padding-right: 10px;
+  margin: 10px;
+}
+
+.thumbnail {
+    position: relative;
+    border: 0px !important;
+}
+
+.caption {
+  font-size: 30px;
+  font-weight: bold;
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 100%;
+    opacity: 0;
+    padding: 0px;
+}
+
+.thumbnail:hover .img-responsive{
+  opacity: 0.3;
+}
+
+.thumbnail:hover .caption{
+  opacity: 1;
+}
+
+.center-container{
+  text-align: center;
+}
+
+.info-container{
+  margin: 30px;
+  padding: 30px;
+  background-color: #F6F6F6 !important;
+}
+
+.element-list{
+  padding: 5px;
+  margin: 10px;
+  display: table;
+
+}
+
+.orientation-style{
+  margin-top: 8px;
+  margin-left: 5px;
+  background: #9C9C9C;
+  color: white;
+  border-radius: 8px;
+  font-family: Arial;
+  font-size: 18px;
+  padding: 5px 8px 5px 8px;
+  border: 0px;
+  display: inline-block;
+}
+
+.orientation-style:hover{
+  color: white;
+  background: #48BDA9;
+}
+
+.btn {
+  margin-top: 20px;
+  color: white;
+  background: #48BDA9;
+  border-radius: 28px;
+  font-family: Arial;
+  font-size: 22px;
+  border: 0px;
+}
+
+.btn:hover {
+  background: #2D8A7A;
+}
+
+#btn-container{
+  width: 200px;
+}
+
+#doctor-image{
+  width: 250px;
+  height: 250px;
+  border-radius: 100%;
+}
+
+#location-image{
+  width: 500px;
+  height: 350px;
+}
+
+.imgwrapper {
+   width: 100%;
+   height: 70%;
+}
+
+.dropbtn{
+  margin-top: 20px;
+  color: white;
+  background: #145B4F;
+  border-radius: 5px;
+  font-family: Arial;
+  font-size: 15px;
+  border: 0px;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    text-align: center;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    padding: 10px;
+}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {display:block;}
